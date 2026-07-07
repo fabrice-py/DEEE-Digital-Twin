@@ -2,7 +2,7 @@
 %  params_init_DEEE.m  - Initialisation du jumeau numérique
 %  Centre de tri DEEE 
 % =========================================================
-clc; clear; close all;
+clc;
 addpath(pwd);
 fprintf('=== Chargement paramètres DEEE ===\n');
 
