@@ -3,10 +3,10 @@
 | Acronyme | Définition |
 |----------|-----------|
 | **ADEME** | Agence De l'Environnement et de la Maîtrise de l'Énergie |
-| **Ag** | Argentum (latin) = Argent |
-| **Au** | Aurum (latin) = Or |
+| **Ag** | Argent |
+| **Au** | Or |
 | **Cp** | Capacité calorifique à pression constante [kJ/kg·°C] |
-| **Cu** | Cuprum (latin) = Cuivre |
+| **Cu** | Cuivre |
 | **d50** | Diamètre médian de la distribution granulométrique [mm] |
 | **DEEE** | Déchets d'Équipements Électriques et Électroniques |
 | **ECR** | ÉCRans (catégorie DEEE n°3 : TV, moniteurs, tablettes) |
