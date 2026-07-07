@@ -31,7 +31,7 @@ l'onglet **Entity type** du bloc `Generateur_DEEE` et mis à jour à chaque
 
 ---
 
-### 🔵 Groupe 1 — Identification et classification (4 attributs)
+### 🔵 Groupe 1-Identification et classification (4 attributs)
 
 | # | Attribut | Type | Valeur initiale | Rôle | Bloc assigneur |
 |---|----------|------|----------------|------|----------------|
@@ -42,7 +42,7 @@ l'onglet **Entity type** du bloc `Generateur_DEEE` et mis à jour à chaque
 
 ---
 
-### 🟢 Groupe 2 — Composition matière (5 attributs)
+### 🟢 Groupe 2-Composition matière (5 attributs)
 
 | # | Attribut | Type | Valeur initiale | Rôle | Bloc assigneur |
 |---|----------|------|----------------|------|----------------|
@@ -57,7 +57,7 @@ l'onglet **Entity type** du bloc `Generateur_DEEE` et mis à jour à chaque
 
 ---
 
-### 🟡 Groupe 3 — Fraction dominante et routage séparation (2 attributs)
+### 🟡 Groupe 3-Fraction dominante et routage séparation (2 attributs)
 
 | # | Attribut | Type | Valeur initiale | Rôle | Bloc assigneur |
 |---|----------|------|----------------|------|----------------|
@@ -66,7 +66,7 @@ l'onglet **Entity type** du bloc `Generateur_DEEE` et mis à jour à chaque
 
 ---
 
-### 🔴 Groupe 4 — Métaux précieux (6 attributs)
+### 🔴 Groupe 4-Métaux précieux (6 attributs)
 
 | # | Attribut | Type | Valeur initiale | Rôle | Bloc assigneur |
 |---|----------|------|----------------|------|----------------|
@@ -82,7 +82,7 @@ l'onglet **Entity type** du bloc `Generateur_DEEE` et mis à jour à chaque
 
 ---
 
-### 🟠 Groupe 5 — Valeur économique (1 attribut)
+### 🟠 Groupe 5-Valeur économique (1 attribut)
 
 | # | Attribut | Type | Valeur initiale | Rôle | Bloc assigneur |
 |---|----------|------|----------------|------|----------------|
@@ -93,7 +93,7 @@ l'onglet **Entity type** du bloc `Generateur_DEEE` et mis à jour à chaque
 
 ---
 
-### 🔵 Groupe 6 — Broyage et granulométrie (3 attributs)
+### 🔵 Groupe 6-Broyage et granulométrie (3 attributs)
 
 | # | Attribut | Type | Valeur initiale | Rôle | Bloc assigneur |
 |---|----------|------|----------------|------|----------------|
@@ -103,7 +103,7 @@ l'onglet **Entity type** du bloc `Generateur_DEEE` et mis à jour à chaque
 
 ---
 
-### 🟣 Groupe 7 — Démantèlement et dépollution (4 attributs)
+### 🟣 Groupe 7-Démantèlement et dépollution (4 attributs)
 
 | # | Attribut | Type | Valeur initiale | Rôle | Bloc assigneur |
 |---|----------|------|----------------|------|----------------|
@@ -117,7 +117,7 @@ l'onglet **Entity type** du bloc `Generateur_DEEE` et mis à jour à chaque
 
 ---
 
-### 🟤 Groupe 8 — KPIs séparation matière (12 attributs)
+### 🟤 Groupe 8-KPIs séparation matière (12 attributs)
 
 | # | Attribut | Type | Valeur initiale | Rôle | Bloc assigneur |
 |---|----------|------|----------------|------|----------------|
@@ -136,7 +136,7 @@ l'onglet **Entity type** du bloc `Generateur_DEEE` et mis à jour à chaque
 
 ---
 
-### 🔵 Groupe 9 — Hydrométallurgie — rendements (3 attributs)
+### 🔵 Groupe 9-Hydrométallurgie — rendements (3 attributs)
 
 | # | Attribut | Type | Valeur initiale | Rôle | Bloc assigneur |
 |---|----------|------|----------------|------|----------------|
@@ -146,7 +146,7 @@ l'onglet **Entity type** du bloc `Generateur_DEEE` et mis à jour à chaque
 
 ---
 
-### 🟡 Groupe 10 — Bilan énergétique (4 attributs)
+### 🟡 Groupe 10-Bilan énergétique (4 attributs)
 
 | # | Attribut | Type | Valeur initiale | Rôle | Bloc assigneur |
 |---|----------|------|----------------|------|----------------|
@@ -157,7 +157,7 @@ l'onglet **Entity type** du bloc `Generateur_DEEE` et mis à jour à chaque
 
 ---
 
-### 🟢 Groupe 11 — Bilan énergétique global process (4 attributs)
+### 🟢 Groupe 11-Bilan énergétique global process (4 attributs)
 
 | # | Attribut | Type | Valeur initiale | Rôle | Bloc assigneur |
 |---|----------|------|----------------|------|----------------|
@@ -168,7 +168,7 @@ l'onglet **Entity type** du bloc `Generateur_DEEE` et mis à jour à chaque
 
 ---
 
-### 🔴 Groupe 12 — Modélisation thermique (2 attributs)
+### 🔴 Groupe 12-Modélisation thermique (2 attributs)
 
 | # | Attribut | Type | Valeur initiale | Rôle | Bloc assigneur |
 |---|----------|------|----------------|------|----------------|
@@ -180,7 +180,7 @@ l'onglet **Entity type** du bloc `Generateur_DEEE` et mis à jour à chaque
 
 ---
 
-### 🟠 Groupe 13 — Gestion des effluents acides (3 attributs)
+### 🟠 Groupe 13-Gestion des effluents acides (3 attributs)
 
 | # | Attribut | Type | Valeur initiale | Rôle | Bloc assigneur |
 |---|----------|------|----------------|------|----------------|
@@ -190,7 +190,7 @@ l'onglet **Entity type** du bloc `Generateur_DEEE` et mis à jour à chaque
 
 ---
 
-### 🟣 Groupe 14 — Récupération de chaleur (2 attributs)
+### 🟣 Groupe 14-Récupération de chaleur (2 attributs)
 
 | # | Attribut | Type | Valeur initiale | Rôle | Bloc assigneur |
 |---|----------|------|----------------|------|----------------|
@@ -199,7 +199,7 @@ l'onglet **Entity type** du bloc `Generateur_DEEE` et mis à jour à chaque
 
 ---
 
-### 🔵 Groupe 15 — Taux de récupération (1 attribut)
+### 🔵 Groupe 15-Taux de récupération (1 attribut)
 
 | # | Attribut | Type | Valeur initiale | Rôle | Bloc assigneur |
 |---|----------|------|----------------|------|----------------|
@@ -207,7 +207,7 @@ l'onglet **Entity type** du bloc `Generateur_DEEE` et mis à jour à chaque
 
 ---
 
-### 🟤 Groupe 16 — Énergie lixiviation brute (1 attribut)
+### 🟤 Groupe 16-Énergie lixiviation brute (1 attribut)
 
 | # | Attribut | Type | Valeur initiale | Rôle | Bloc assigneur |
 |---|----------|------|----------------|------|----------------|
