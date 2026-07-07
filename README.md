@@ -90,7 +90,6 @@ Pannes_Equipements (Stateflow) ──► SF_Broyeur1, SF_Broyeur2,
 DEEE_Digital_Twin/
 │
 ├── 📄 README.md                    ← Ce fichier
-├── 📄 LICENSE
 │
 ├── 🔧 Simulink/
 │   └── DEEE_centre_tri.slx         ← Modèle Simulink principal
@@ -101,15 +100,12 @@ DEEE_Digital_Twin/
 │   └── scenarios_DEEE.m            ← Analyse what-if
 │
 ├── 📊 Results/
-│   ├── Figure1_Dashboard_KPI.png
-│   ├── Figure2_KPIs_Separation.png
-│   ├── Figure3_KPIs_Hydromet.png
-│   ├── Figure4_OEE_Equipements.png
-│   ├── Figure5_Bilan_Energetique.png
-│   └── Figure6_Recuperation_Chaleur.png
-│
-└── 📚 Docs/
-    └── Documentation_Technique.md
+    ├── Figure1_Dashboard_KPI.png
+    ├── Figure2_KPIs_Separation.png
+    ├── Figure3_KPIs_Hydromet.png
+    ├── Figure4_OEE_Equipements.png
+    ├── Figure5_Bilan_Energetique.png
+    └── Figure6_Recuperation_Chaleur.png
 ```
 
 ---
