@@ -223,11 +223,11 @@ l'onglet **Entity type** du bloc `Generateur_DEEE` et mis à jour à chaque
 | Composition matière | 5 | Fe, NFe, Plastique, Verre, Autre |
 | Fraction dominante | 2 | Routage séparation |
 | Métaux précieux | 6 | Cu, Au, Ag — initial et courant |
-| Valeur économique | 1 | EUR — cours LME 2024 |
+| Valeur économique | 1 | EUR - cours LME 2024 |
 | Broyage | 3 | Granulométrie, passages, routage |
 | Démantèlement | 4 | Danger, batteries, mercure, routage |
 | KPIs séparation | 12 | Pureté, rendement, pertes × 4 procédés |
-| Hydromet rendements | 3 | Cu, Au, Ag — rendement global |
+| Hydromet rendements | 3 | Cu, Au, Ag - rendement global |
 | Énergie hydromet | 4 | Lixiviation, précipitation, électrolyse, total |
 | Énergie process | 4 | Broyage, tri, séparation, total process |
 | Thermique | 2 | Température cuve, rendement corrigé |
@@ -254,10 +254,10 @@ calibrés sur données industrielles publiques.
 | OEE | Disponibilité × Performance × Qualité | 75% |
 | Disponibilité | t_service / (t_service + t_panne + t_maint) | 96.8% |
 | Rendement Cu | masse_Cu_final / masse_Cu_init × 100 | 84.5% |
-| Récupération chaleur | Q_recup / Q_brute × 100 | — |
+| Récupération chaleur | Q_recup / Q_brute × 100 | - |
 | Énergie nette | Énergie_brute - Chaleur_récupérée | 850 kWh/t |
 
 ---
 
 *Documentation générée pour le projet DEEE Digital Twin*
-*Auteur : Fabrice TSAMO NGUESOP — github.com/fabrice-py/DEEE-Digital-Twin*
+*Auteur : Fabrice TSAMO - github.com/fabrice-py/DEEE-Digital-Twin*
