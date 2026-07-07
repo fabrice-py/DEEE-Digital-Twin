@@ -11,6 +11,7 @@
 ## 📋 Description du projet
 
 Ce projet implémente un **jumeau numérique complet** d'un centre de tri et de valorisation de Déchets d'Équipements Électriques et Électroniques (DEEE) sous MATLAB/Simulink avec SimEvents et Stateflow.
+
 Le modèle simule l'ensemble du process industriel de la réception des appareils jusqu'à la valorisation hydrométallurgique des métaux précieux en calculant en temps réel les KPIs industriels clés.
 
 > **Sources de données** : ADEME Registre National DEEE 2020 · Veolia Angers (55 000 t/an) · Paprec process DEEE · ADEME référentiel coûts 2021
