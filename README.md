@@ -311,7 +311,7 @@ Mastère Spécialisé Management et Gestion des Risques Industriels (Oct. 2026)
 
 ## 📄 Licence
 
-Ce projet est sous licence MIT — voir le fichier [LICENSE](LICENSE) pour les détails.
+Ce projet est sous licence MIT-voir le fichier [LICENSE](LICENSE) pour les détails.
 
 ---
 
