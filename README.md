@@ -277,31 +277,31 @@ Résultats typiques :
 
 Le modèle est validé par **cohérence de benchmark** en 3 niveaux :
 
-**Niveau 1 — Validation statique**
+**Niveau 1-Validation statique**
 Les KPIs en régime permanent sont dans les plages de référence industrielle.
 
-**Niveau 2 — Validation de sensibilité**
+**Niveau 2-Validation de sensibilité**
 Les KPIs réagissent dans le bon sens quand on fait varier les paramètres.
 
-**Niveau 3 — Validation par scénarios contrastés**
+**Niveau 3-Validation par scénarios contrastés**
 La comparaison de configurations montre des gains réalistes.
 
 ---
 
 ## 📚 Sources et références
 
-- ADEME — *Registre National DEEE 2020*
-- ADEME — *Référentiel des coûts de gestion des DEEE 2021*
-- Veolia — *Centre de tri DEEE d'Angers — Rapport d'activité 2016*
-- Paprec — *Process DEEE — Technologie Smasher*
-- ADEME — *Prospective Métaux Critiques 2022*
+- ADEME - *Registre National DEEE 2020*
+- ADEME - *Référentiel des coûts de gestion des DEEE 2021*
+- Veolia - *Centre de tri DEEE d'Angers - Rapport d'activité 2016*
+- Paprec - *Process DEEE — Technologie Smasher*
+- ADEME - *Prospective Métaux Critiques 2022*
 - Directive européenne DEEE 2012/19/UE
 
 ---
 
 ## 👤 Auteur
 
-**Fabrice TSAMO NGUESOP**
+**Fabrice Joseph TSAMO NGUESOP**
 Ingénieur Géométallurgiste | Futur alternant CESI Nanterre
 Mastère Spécialisé Management et Gestion des Risques Industriels (Oct. 2026)
 
