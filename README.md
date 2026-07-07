@@ -269,30 +269,10 @@ Résultats typiques :
 
 ---
 ## 📸 Aperçu des résultats
+
 ## 🖼️ Flowsheet Simulink
 
 ### Canvas principal — Vue d'ensemble
-<<<<<<< HEAD
-![Flowsheet Simulink](Results/Flowsheet_Simulink.png)
-
-### Dashboard KPI Principal
-![Dashboard KPI](Results/Figure1_Dashboard_KPI.png)
-
-### KPIs Séparation Matière
-![KPIs Separation](Results/Figure2_KPIs_Separation.png)
-
-### KPIs Hydrométallurgie
-![KPIs Hydromet](Results/Figure3_KPIs_Hydromet.png)
-
-### Performance par Équipement
-![OEE Equipements](Results/Figure4_OEE_Equipements.png)
-
-### Bilan Énergétique Global
-![Bilan Energetique](Results/Figure5_Bilan_Energetique.png)
-
-### Récupération de Chaleur
-![Recuperation Chaleur](Results/Figure6_Recuperation_Chaleur.png)
-=======
 ![Flowsheet Simulink](Resultats/Flowsheet_Simulink.png)
 
 ### Dashboard KPI Principal
@@ -312,7 +292,6 @@ Résultats typiques :
 
 ### Récupération de Chaleur
 ![Recuperation Chaleur](Resultats/Figure6_Recuperation_Chaleur.png)
->>>>>>> bd47009d65b862fe18d50b2fb79b77aa7857b31a
 
 ## 🧪 Validation du modèle
 
