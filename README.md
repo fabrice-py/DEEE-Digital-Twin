@@ -268,6 +268,25 @@ Résultats typiques :
 | 200h | ~79% | 99% | ~92% |
 
 ---
+## 📸 Aperçu des résultats
+
+### Dashboard KPI Principal
+![Dashboard KPI](Results/Figure1_Dashboard_KPI.png)
+
+### KPIs Séparation Matière
+![KPIs Separation](Results/Figure2_KPIs_Separation.png)
+
+### KPIs Hydrométallurgie
+![KPIs Hydromet](Results/Figure3_KPIs_Hydromet.png)
+
+### Performance par Équipement
+![OEE Equipements](Results/Figure4_OEE_Equipements.png)
+
+### Bilan Énergétique Global
+![Bilan Energetique](Results/Figure5_Bilan_Energetique.png)
+
+### Récupération de Chaleur
+![Recuperation Chaleur](Results/Figure6_Recuperation_Chaleur.png)
 
 ## 🧪 Validation du modèle
 
