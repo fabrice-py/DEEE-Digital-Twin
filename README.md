@@ -305,7 +305,7 @@ La comparaison de configurations montre des gains réalistes.
 Ingénieur Géométallurgiste | Futur alternant CESI Nanterre
 Mastère Spécialisé Management et Gestion des Risques Industriels (Oct. 2026)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fabrice_Tsamo-blue?logo=linkedin)](https://www.linkedin.com/in/votre-profil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fabrice_Tsamo-blue?logo=linkedin)](https://www.linkedin.com/in/fabrice-tsamo-ba68b219b
 
 ---
 
