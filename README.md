@@ -294,6 +294,9 @@ Résultats typiques :
 ### Récupération de Chaleur
 ![Recuperation Chaleur](Resultats/Figure6_Recuperation_Chaleur.png)
 
+### Analyse What-If DEEE
+![Analyse What-If DEEE](Resultats/Analyse_What-If_DEEE.png)
+
 ## 🧪 Validation du modèle
 
 Le modèle est validé par **cohérence de benchmark** en 3 niveaux :
