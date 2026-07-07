@@ -30,15 +30,14 @@
 | **OEE** | Overall Equipment Effectiveness - Taux de Rendement Global |
 | **PAM** | Petit Appareil Ménager (catégorie DEEE n°2) |
 | **PCB** | PolyChloroBiphényles - substances toxiques réglementées |
-| **pH** | potentiel Hydrogène - mesure d'acidité (0-14) |
 | **REP** | Responsabilité Élargie du Producteur |
 | **SF** | StateFlow - préfixe des Charts Stateflow du modèle |
 | **SimEvents** | Toolbox MATLAB pour simulation à événements discrets |
 | **Simulink** | Environnement graphique de modélisation/simulation MATLAB |
 | **Stateflow** | Toolbox MATLAB pour modélisation de machines d'états |
 | **TMD** | Transport de Marchandises Dangereuses |
-| **TRG** | Taux de Rendement Global - traduction française de l'OEE |
-| **WEEE** | Waste Electrical and Electronic Equipment - traduction anglaise de DEEE |
+| **TRG** | Taux de Rendement Global|
+| **WEEE** | Waste Electrical and Electronic Equipment |
 | **XRF** | X-Ray Fluorescence - analyse élémentaire par fluorescence X |
 
 ---
