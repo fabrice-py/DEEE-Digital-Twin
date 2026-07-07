@@ -21,8 +21,9 @@ Le modèle simule l'ensemble du process industriel de la réception des appareil
 ## 🎯 Objectifs
 
 - Modéliser un flux industriel DEEE complet par simulation à événements discrets
-- Calculer les KPIs industriels : OEE, taux de captation, disponibilité, rendement matière
-- Simuler les pannes d'équipements avec des modèles de fiabilité (MTBF/MTTR)
+- Calculer les KPIs industriels : OEE(Overall Equipment Effectiveness
+Taux de Rendement Global/ TRG), taux de captation, disponibilité, rendement matière
+- Simuler les pannes d'équipements avec des modèles de fiabilité : MTBF(Mean Time Between Failures/Temps Moyen Entre Pannes)/MTTR(Mean Time To Repair/Temps Moyen de Réparation)
 - Optimiser les procédés par analyse de sensibilité (scénarios what-if)
 - Produire un bilan matière et énergétique complet incluant la récupération de chaleur
 
