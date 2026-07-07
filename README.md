@@ -269,6 +269,10 @@ Résultats typiques :
 
 ---
 ## 📸 Aperçu des résultats
+## 🖼️ Flowsheet Simulink
+
+### Canvas principal — Vue d'ensemble
+![Flowsheet Simulink](Results/Flowsheet_Simulink.png)
 
 ### Dashboard KPI Principal
 ![Dashboard KPI](Results/Figure1_Dashboard_KPI.png)
