@@ -11,10 +11,10 @@
 | **DEEE** | Déchets d'Équipements Électriques et Électroniques |
 | **ECR** | ÉCRans (catégorie DEEE n°3 : TV, moniteurs, tablettes) |
 | **EEE** | Équipements Électriques et Électroniques |
-| **Fe** | Ferrum (latin) = Fer / Métaux ferreux |
+| **Fe** | Fer / Métaux ferreux |
 | **FIFO** | First In First Out - premier arrivé, premier servi |
 | **GEM** | Gros ÉlectroMénager (catégorie DEEE n°1) |
-| **Hg** | Hydrargyrum (latin) = Mercure |
+| **Hg** | Mercure |
 | **HNO₃** | Acide nitrique - réactif lixiviation Au/Ag |
 | **H₂SO₄** | Acide sulfurique - réactif lixiviation Cu |
 | **ICPE** | Installation Classée pour la Protection de l'Environnement |
