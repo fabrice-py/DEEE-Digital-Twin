@@ -90,7 +90,6 @@ Pannes_Equipements (Stateflow) ──► SF_Broyeur1, SF_Broyeur2,
 DEEE_Digital_Twin/
 │
 ├── 📄 README.md                    ← Ce fichier
-├── 📄 LICENSE
 │
 ├── 🔧 Simulink/
 │   └── DEEE_centre_tri.slx         ← Modèle Simulink principal
@@ -101,15 +100,12 @@ DEEE_Digital_Twin/
 │   └── scenarios_DEEE.m            ← Analyse what-if
 │
 ├── 📊 Results/
-│   ├── Figure1_Dashboard_KPI.png
-│   ├── Figure2_KPIs_Separation.png
-│   ├── Figure3_KPIs_Hydromet.png
-│   ├── Figure4_OEE_Equipements.png
-│   ├── Figure5_Bilan_Energetique.png
-│   └── Figure6_Recuperation_Chaleur.png
-│
-└── 📚 Docs/
-    └── Documentation_Technique.md
+    ├── Figure1_Dashboard_KPI.png
+    ├── Figure2_KPIs_Separation.png
+    ├── Figure3_KPIs_Hydromet.png
+    ├── Figure4_OEE_Equipements.png
+    ├── Figure5_Bilan_Energetique.png
+    └── Figure6_Recuperation_Chaleur.png
 ```
 
 ---
@@ -272,36 +268,59 @@ Résultats typiques :
 | 200h | ~79% | 99% | ~92% |
 
 ---
+## 📸 Aperçu des résultats
+## 🖼️ Flowsheet Simulink
+
+### Canvas principal — Vue d'ensemble
+![Flowsheet Simulink](Results/Flowsheet_Simulink.png)
+
+### Dashboard KPI Principal
+![Dashboard KPI](Results/Figure1_Dashboard_KPI.png)
+
+### KPIs Séparation Matière
+![KPIs Separation](Results/Figure2_KPIs_Separation.png)
+
+### KPIs Hydrométallurgie
+![KPIs Hydromet](Results/Figure3_KPIs_Hydromet.png)
+
+### Performance par Équipement
+![OEE Equipements](Results/Figure4_OEE_Equipements.png)
+
+### Bilan Énergétique Global
+![Bilan Energetique](Results/Figure5_Bilan_Energetique.png)
+
+### Récupération de Chaleur
+![Recuperation Chaleur](Results/Figure6_Recuperation_Chaleur.png)
 
 ## 🧪 Validation du modèle
 
 Le modèle est validé par **cohérence de benchmark** en 3 niveaux :
 
-**Niveau 1 — Validation statique**
+**Niveau 1-Validation statique**
 Les KPIs en régime permanent sont dans les plages de référence industrielle.
 
-**Niveau 2 — Validation de sensibilité**
+**Niveau 2-Validation de sensibilité**
 Les KPIs réagissent dans le bon sens quand on fait varier les paramètres.
 
-**Niveau 3 — Validation par scénarios contrastés**
+**Niveau 3-Validation par scénarios contrastés**
 La comparaison de configurations montre des gains réalistes.
 
 ---
 
 ## 📚 Sources et références
 
-- ADEME — *Registre National DEEE 2020*
-- ADEME — *Référentiel des coûts de gestion des DEEE 2021*
-- Veolia — *Centre de tri DEEE d'Angers — Rapport d'activité 2016*
-- Paprec — *Process DEEE — Technologie Smasher*
-- ADEME — *Prospective Métaux Critiques 2022*
+- ADEME - *Registre National DEEE 2020*
+- ADEME - *Référentiel des coûts de gestion des DEEE 2021*
+- Veolia - *Centre de tri DEEE d'Angers - Rapport d'activité 2016*
+- Paprec - *Process DEEE — Technologie Smasher*
+- ADEME - *Prospective Métaux Critiques 2022*
 - Directive européenne DEEE 2012/19/UE
 
 ---
 
 ## 👤 Auteur
 
-**Fabrice TSAMO NGUESOP**
+**Fabrice Joseph TSAMO NGUESOP**
 Ingénieur Géométallurgiste | Futur alternant CESI Nanterre
 Mastère Spécialisé Management et Gestion des Risques Industriels (Oct. 2026)
 
