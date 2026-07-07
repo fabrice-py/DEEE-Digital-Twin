@@ -1,0 +1,6 @@
+*.asv
+*.m~
+slprj/
+*.slxc
+codegen/
+*.mex*
