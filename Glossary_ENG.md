@@ -12,33 +12,33 @@
 | **SCR** | Screens category (WEEE category n°3: TVs, monitors, tablets) |
 | **EEE** | Electrical and Electronic Equipment (before end-of-life) |
 | **Fe** | Iron / Ferrous metals |
-| **FIFO** | First In First Out — first entity arrived is first served |
+| **FIFO** | First In First Out - first entity arrived is first served |
 | **LHA** | Large Home Appliances (WEEE category n°1) |
 | **Hg** | Mercury |
-| **HNO₃** | Nitric acid — Au/Ag leaching reagent |
-| **H₂SO₄** | Sulfuric acid — Cu leaching reagent |
+| **HNO₃** | Nitric acid - Au/Ag leaching reagent |
+| **H₂SO₄** | Sulfuric acid - Cu leaching reagent |
 | **ICPE** | French regulated industrial installation *(Installation Classée pour la Protection de l'Environnement)* |
 | **ICT** | Information and Communication Technology (WEEE category n°4) |
 | **KPI** | Key Performance Indicator |
-| **kWh** | Kilowatt-hour — energy unit |
-| **LME** | London Metal Exchange — global metals exchange |
-| **MATLAB** | MATrix LABoratory — numerical computing software by MathWorks |
+| **kWh** | Kilowatt-hour - energy unit |
+| **LME** | London Metal Exchange - global metals exchange |
+| **MATLAB** | MATrix LABoratory - numerical computing software by MathWorks |
 | **MTBF** | Mean Time Between Failures |
 | **MTTR** | Mean Time To Repair |
 | **NFe** | Non-Ferrous metals (Cu, Al, Zn...) |
-| **NaOH** | Sodium hydroxide — precipitation reagent |
+| **NaOH** | Sodium hydroxide - precipitation reagent |
 | **OEE** | Overall Equipment Effectiveness |
 | **SHA** | Small Home Appliances (WEEE category n°2) |
-| **PCB** | PolyChlorinated Biphenyls — regulated toxic substances |
+| **PCB** | PolyChlorinated Biphenyls - regulated toxic substances |
 | **pH** | Potential of Hydrogen - acidity measure (0-14) |
 | **EPR** | Extended Producer Responsibility *(Responsabilité Élargie du Producteur)* |
-| **SF** | StateFlow — prefix for Stateflow Charts in the model |
+| **SF** | StateFlow - prefix for Stateflow Charts in the model |
 | **SimEvents** | MATLAB toolbox for discrete event simulation |
 | **Simulink** | MATLAB graphical modeling and simulation environment |
 | **Stateflow** | MATLAB toolbox for finite state machine modeling |
 | **ADG** | Transport of Dangerous Goods *(Transport de Marchandises Dangereuses)* |
-| **TRG** | Overall Equipment Effectiveness — French equivalent of OEE *(Taux de Rendement Global)* |
-| **XRF** | X-Ray Fluorescence — rapid non-destructive elemental analysis |
+| **TRG** | Overall Equipment Effectiveness - French equivalent of OEE *(Taux de Rendement Global)* |
+| **XRF** | X-Ray Fluorescence - rapid non-destructive elemental analysis |
 
 ---
 
