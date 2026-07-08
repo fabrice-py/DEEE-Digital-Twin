@@ -1,4 +1,4 @@
-# 🏭 Digital Twin — WEEE Sorting and Recycling Center
+# 🏭 Digital Twin-WEEE Sorting and Recycling Center
 
 [![MATLAB](https://img.shields.io/badge/MATLAB-R2026a-orange?logo=mathworks)](https://www.mathworks.com)
 [![SimEvents](https://img.shields.io/badge/SimEvents-Discrete%20Event-blue)](https://www.mathworks.com/products/simevents.html)
@@ -11,7 +11,7 @@
 
 This project implements a **complete digital twin** of a Waste Electrical and Electronic Equipment (WEEE) sorting and valorization center using MATLAB/Simulink with SimEvents and Stateflow.
 
-The model simulates the entire industrial process — from equipment reception to precious metal recovery through hydrometallurgy — computing real-time industrial KPIs.
+The model simulates the entire industrial process from equipment reception to precious metal recovery through hydrometallurgy computing real-time industrial KPIs.
 
 > **Data sources**: ADEME National WEEE Registry 2020 · Veolia Angers (55,000 t/year) · Paprec WEEE process · ADEME cost reference 2021
 
@@ -215,7 +215,7 @@ Generates WEEE entities with:
 
 **Leaching** (H₂SO₄ / HNO₃)
 - Operating temperature: 60-70°C
-- Duration: f(granulometry) — 0.005 to 0.1h (simulated)
+- Duration: f(granulometry) - 0.005 to 0.1h (simulated)
 - Yields: Cu=90%, Au=85%, Ag=88%
 
 **Selective precipitation** (NaOH, Cu cementation)
@@ -277,24 +277,24 @@ Typical results:
 
 The model is validated through **benchmark consistency** at 3 levels:
 
-**Level 1 — Static validation**
+**Level 1 - Static validation**
 Steady-state KPIs fall within industrial reference ranges.
 
-**Level 2 — Sensitivity validation**
+**Level 2 - Sensitivity validation**
 KPIs respond correctly when parameters are varied.
 
-**Level 3 — Contrasted scenario validation**
+**Level 3 - Contrasted scenario validation**
 Configuration comparisons show realistic gains.
 
 ---
 
 ## 📚 References
 
-- ADEME — *National WEEE Registry 2020*
-- ADEME — *WEEE management cost reference 2021*
-- Veolia — *Angers WEEE Sorting Center — Activity Report 2016*
-- Paprec — *WEEE Process — Smasher Technology*
-- ADEME — *Critical Metals Prospective 2022*
+- ADEME - *National WEEE Registry 2020*
+- ADEME - *WEEE management cost reference 2021*
+- Veolia - *Angers WEEE Sorting Center — Activity Report 2016*
+- Paprec - *WEEE Process — Smasher Technology*
+- ADEME - *Critical Metals Prospective 2022*
 - European WEEE Directive 2012/19/EU
 
 ---
@@ -322,12 +322,14 @@ Configuration comparisons show realistic gains.
 ### Heat Recovery Module
 ![Recuperation Chaleur](Resultats/Figure6_Recuperation_Chaleur.png)
 
+### Analyse What-If DEEE
+![Analyse What-If DEEE](Resultats/Analyse_What-If_DEEE.png)
 ---
 
 ## 👤 Author
 
 **Fabrice TSAMO NGUESOP**
-Geometallurgical Engineer | Future CESI Nanterre Apprentice
+Geometallurgical Engineer
 Specialized Master's in Industrial Risk and Safety Management (Oct. 2026)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Fabrice_Tsamo-blue?logo=linkedin)](https://www.linkedin.com/in/votre-profil)
@@ -337,8 +339,8 @@ Specialized Master's in Industrial Risk and Safety Management (Oct. 2026)
 
 ## 📄 License
 
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
-*Project developed as part of an engineering portfolio — data calibrated on French public industrial references.*
+*Project developed as part of an engineering portfolio - data calibrated on French public industrial references.*
