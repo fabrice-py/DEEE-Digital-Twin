@@ -292,8 +292,8 @@ Configuration comparisons show realistic gains.
 
 - ADEME - *National WEEE Registry 2020*
 - ADEME - *WEEE management cost reference 2021*
-- Veolia - *Angers WEEE Sorting Center — Activity Report 2016*
-- Paprec - *WEEE Process — Smasher Technology*
+- Veolia - *Angers WEEE Sorting Center - Activity Report 2016*
+- Paprec - *WEEE Process - Smasher Technology*
 - ADEME - *Critical Metals Prospective 2022*
 - European WEEE Directive 2012/19/EU
 
@@ -339,7 +339,7 @@ Specialized Master's in Industrial Risk and Safety Management (Oct. 2026)
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License
 
 ---
 
