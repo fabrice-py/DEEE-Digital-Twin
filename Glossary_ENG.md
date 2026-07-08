@@ -1,4 +1,4 @@
-# 📖 Glossary — WEEE Sorting Center Digital Twin
+# 📖 Glossary - WEEE Sorting Center Digital Twin
 
 | Acronym | Definition |
 |---------|-----------|
