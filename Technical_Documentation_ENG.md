@@ -1,4 +1,4 @@
-# 📚 Technical Documentation — WEEE Sorting Center Digital Twin
+# 📚 Technical Documentation - WEEE Sorting Center Digital Twin
 
 ## Table of Contents
 1. [Model Architecture](#architecture)
@@ -30,7 +30,7 @@ each process stage.
 
 ---
 
-### 🔵 Group 1 — Identification and Classification (4 attributes)
+### 🔵 Group 1 - Identification and Classification (4 attributes)
 
 | # | Attribute | Type | Initial Value | Role | Assigning Block |
 |---|-----------|------|--------------|------|----------------|
@@ -41,7 +41,7 @@ each process stage.
 
 ---
 
-### 🟢 Group 2 — Material Composition (5 attributes)
+### 🟢 Group 2 - Material Composition (5 attributes)
 
 | # | Attribute | Type | Initial Value | Role | Assigning Block |
 |---|-----------|------|--------------|------|----------------|
@@ -56,7 +56,7 @@ each process stage.
 
 ---
 
-### 🟡 Group 3 — Dominant Fraction and Separation Routing (2 attributes)
+### 🟡 Group 3 - Dominant Fraction and Separation Routing (2 attributes)
 
 | # | Attribute | Type | Initial Value | Role | Assigning Block |
 |---|-----------|------|--------------|------|----------------|
@@ -65,7 +65,7 @@ each process stage.
 
 ---
 
-### 🔴 Group 4 — Precious Metals (6 attributes)
+### 🔴 Group 4 - Precious Metals (6 attributes)
 
 | # | Attribute | Type | Initial Value | Role | Assigning Block |
 |---|-----------|------|--------------|------|----------------|
@@ -81,7 +81,7 @@ each process stage.
 
 ---
 
-### 🟠 Group 5 — Economic Value (1 attribute)
+### 🟠 Group 5 - Economic Value (1 attribute)
 
 | # | Attribute | Type | Initial Value | Role | Assigning Block |
 |---|-----------|------|--------------|------|----------------|
@@ -92,7 +92,7 @@ each process stage.
 
 ---
 
-### 🔵 Group 6 — Crushing and Granulometry (3 attributes)
+### 🔵 Group 6 - Crushing and Granulometry (3 attributes)
 
 | # | Attribute | Type | Initial Value | Role | Assigning Block |
 |---|-----------|------|--------------|------|----------------|
@@ -102,7 +102,7 @@ each process stage.
 
 ---
 
-### 🟣 Group 7 — Dismantling and Depollution (4 attributes)
+### 🟣 Group 7 - Dismantling and Depollution (4 attributes)
 
 | # | Attribute | Type | Initial Value | Role | Assigning Block |
 |---|-----------|------|--------------|------|----------------|
@@ -116,7 +116,7 @@ each process stage.
 
 ---
 
-### 🟤 Group 8 — Material Separation KPIs (12 attributes)
+### 🟤 Group 8 - Material Separation KPIs (12 attributes)
 
 | # | Attribute | Type | Initial Value | Role | Assigning Block |
 |---|-----------|------|--------------|------|----------------|
@@ -135,7 +135,7 @@ each process stage.
 
 ---
 
-### 🔵 Group 9 — Hydrometallurgy Yields (3 attributes)
+### 🔵 Group 9 - Hydrometallurgy Yields (3 attributes)
 
 | # | Attribute | Type | Initial Value | Role | Assigning Block |
 |---|-----------|------|--------------|------|----------------|
@@ -145,7 +145,7 @@ each process stage.
 
 ---
 
-### 🟡 Group 10 — Energy Balance (4 attributes)
+### 🟡 Group 10 - Energy Balance (4 attributes)
 
 | # | Attribute | Type | Initial Value | Role | Assigning Block |
 |---|-----------|------|--------------|------|----------------|
@@ -156,7 +156,7 @@ each process stage.
 
 ---
 
-### 🟢 Group 11 — Global Process Energy Balance (4 attributes)
+### 🟢 Group 11 - Global Process Energy Balance (4 attributes)
 
 | # | Attribute | Type | Initial Value | Role | Assigning Block |
 |---|-----------|------|--------------|------|----------------|
@@ -167,7 +167,7 @@ each process stage.
 
 ---
 
-### 🔴 Group 12 — Thermal Modeling (2 attributes)
+### 🔴 Group 12 - Thermal Modeling (2 attributes)
 
 | # | Attribute | Type | Initial Value | Role | Assigning Block |
 |---|-----------|------|--------------|------|----------------|
@@ -179,7 +179,7 @@ each process stage.
 
 ---
 
-### 🟠 Group 13 — Acid Effluent Management (3 attributes)
+### 🟠 Group 13 - Acid Effluent Management (3 attributes)
 
 | # | Attribute | Type | Initial Value | Role | Assigning Block |
 |---|-----------|------|--------------|------|----------------|
@@ -189,7 +189,7 @@ each process stage.
 
 ---
 
-### 🟣 Group 14 — Heat Recovery (2 attributes)
+### 🟣 Group 14 - Heat Recovery (2 attributes)
 
 | # | Attribute | Type | Initial Value | Role | Assigning Block |
 |---|-----------|------|--------------|------|----------------|
@@ -198,7 +198,7 @@ each process stage.
 
 ---
 
-### 🔵 Group 15 — Recovery Rate (1 attribute)
+### 🔵 Group 15 - Recovery Rate (1 attribute)
 
 | # | Attribute | Type | Initial Value | Role | Assigning Block |
 |---|-----------|------|--------------|------|----------------|
@@ -206,7 +206,7 @@ each process stage.
 
 ---
 
-### 🟤 Group 16 — Gross Leaching Energy (1 attribute)
+### 🟤 Group 16 - Gross Leaching Energy (1 attribute)
 
 | # | Attribute | Type | Initial Value | Role | Assigning Block |
 |---|-----------|------|--------------|------|----------------|
@@ -252,4 +252,4 @@ each process stage.
 ---
 
 *Documentation for the WEEE Digital Twin project*
-*Author: Fabrice TSAMO NGUESOP — github.com/fabrice-py/DEEE-Digital-Twin*
+*Author: Fabrice TSAMO NGUESOP - github.com/fabrice-py/DEEE-Digital-Twin*
