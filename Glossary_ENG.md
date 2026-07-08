@@ -3,18 +3,18 @@
 | Acronym | Definition |
 |---------|-----------|
 | **ADEME** | French Agency for Environment and Energy Management *(Agence De l'Environnement et de la Maîtrise de l'Énergie)* |
-| **Ag** | *Argentum* (Latin) = Silver |
-| **Au** | *Aurum* (Latin) = Gold |
+| **Ag** | Silver |
+| **Au** | Gold |
 | **Cp** | Specific heat capacity at constant pressure [kJ/kg·°C] |
-| **Cu** | *Cuprum* (Latin) = Copper |
+| **Cu** | Copper |
 | **d50** | Median particle size of granulometric distribution [mm] |
 | **WEEE** | Waste Electrical and Electronic Equipment |
 | **SCR** | Screens category (WEEE category n°3: TVs, monitors, tablets) |
 | **EEE** | Electrical and Electronic Equipment (before end-of-life) |
-| **Fe** | *Ferrum* (Latin) = Iron / Ferrous metals |
+| **Fe** | Iron / Ferrous metals |
 | **FIFO** | First In First Out — first entity arrived is first served |
 | **LHA** | Large Home Appliances (WEEE category n°1) |
-| **Hg** | *Hydrargyrum* (Latin) = Mercury |
+| **Hg** | Mercury |
 | **HNO₃** | Nitric acid — Au/Ag leaching reagent |
 | **H₂SO₄** | Sulfuric acid — Cu leaching reagent |
 | **ICPE** | French regulated industrial installation *(Installation Classée pour la Protection de l'Environnement)* |
@@ -30,7 +30,7 @@
 | **OEE** | Overall Equipment Effectiveness |
 | **SHA** | Small Home Appliances (WEEE category n°2) |
 | **PCB** | PolyChlorinated Biphenyls — regulated toxic substances |
-| **pH** | Potential of Hydrogen — acidity measure (0-14) |
+| **pH** | Potential of Hydrogen - acidity measure (0-14) |
 | **EPR** | Extended Producer Responsibility *(Responsabilité Élargie du Producteur)* |
 | **SF** | StateFlow — prefix for Stateflow Charts in the model |
 | **SimEvents** | MATLAB toolbox for discrete event simulation |
