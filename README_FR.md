@@ -317,7 +317,7 @@ La comparaison de configurations montre des gains réalistes.
 - ADEME - *Registre National DEEE 2020*
 - ADEME - *Référentiel des coûts de gestion des DEEE 2021*
 - Veolia - *Centre de tri DEEE d'Angers - Rapport d'activité 2016*
-- Paprec - *Process DEEE — Technologie Smasher*
+- Paprec - *Process DEEE - Technologie Smasher*
 - ADEME - *Prospective Métaux Critiques 2022*
 - Directive européenne DEEE 2012/19/UE
 
@@ -326,7 +326,7 @@ La comparaison de configurations montre des gains réalistes.
 ## 👤 Auteur
 
 **Fabrice Joseph TSAMO NGUESOP**
-Ingénieur Géométallurgiste | Futur alternant CESI Nanterre
+Ingénieur Géométallurgiste
 Mastère Spécialisé Management et Gestion des Risques Industriels (Oct. 2026)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Fabrice_Tsamo-blue?logo=linkedin)](https://www.linkedin.com/in/fabrice-tsamo-ba68b219b
@@ -335,8 +335,8 @@ Mastère Spécialisé Management et Gestion des Risques Industriels (Oct. 2026)
 
 ## 📄 Licence
 
-Ce projet est sous licence MIT-voir le fichier [LICENSE](LICENSE) pour les détails.
+Ce projet est sous licence MIT
 
 ---
 
-*Projet développé dans le cadre d'un portfolio d'ingénierie — données calibrées sur sources publiques françaises.*
+*Projet développé dans le cadre d'un portfolio d'ingénierie - données calibrées sur sources publiques françaises.*
