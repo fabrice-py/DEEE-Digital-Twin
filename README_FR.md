@@ -237,7 +237,7 @@ Chaque Chart implémente 3 états : **En_Service → En_Panne → Maintenance �
 
 ---
 
-## 📈 Dashboard — 6 figures
+## 📈 Dashboard - 6 figures
 
 | Figure | Contenu |
 |--------|---------|
